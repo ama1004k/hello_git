@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // modify by local
+=======
+// modify by github
+>>>>>>> origin/master
 test   
 
 Hello Git!
